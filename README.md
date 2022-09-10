@@ -1,7 +1,7 @@
 `Julia` code to reproduce plots in:
 > Online change-point detection with kernels.
 > André Ferrari, Cédric Richard, Anthony Bourrier, Ikram Bouchikhi 
-> Pattern Recognition, 2022, 10.1016/j.patcog.2022.109022.
+> Pattern Recognition, 2022, [10.1016/j.patcog.2022.109022](https://www.sciencedirect.com/science/article/abs/pii/S0031320322005027?via%3Dihub)
 
 - `my_funcs.jl` contains all the functions needed for the plots including NOUGAT with a fixed dictionnary.
 - `MonteCarlo_distrib.jl` distribnuted computation of the Monte Carlo simulations.
